@@ -8,7 +8,7 @@
 - 💡 Me interesa el desarrollo de aplicaciones web, diseño UX/UI y tecnologías emergentes.
 - 🛠️ Disfruto trabajar tanto en el **frontend** como en el **backend**, ¡donde ocurre toda la magia! ✨
 - 🌱 **Stack actual**: JavaScript, React, Node.js, Express, MongoDB, y más.
-- 🚀 **Apasionado por aprender**: Siempre en busca de nuevos desafíos y conocimientos. Me encanta mantenerme actualizado con las últimas tecnologías y tendencias del desarrollo web.
+- 🚀 **Apasionado por aprender**: Siempre en busca de nuevos desafíos y conocimientos.
 
 </td>
 <td valign="top" width="50%">
