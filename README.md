@@ -5,7 +5,17 @@
 
 
 ## 🌟 **Sobre mí**
-- 🎓 Desarrollador **Full Stack** con enfoque profesional en **Cloud & DevOps**.  
-- ☁️ Trabajo en entornos **multicloud** con AWS, Microsoft Azure, Google Cloud y Oracle Cloud.  
-- 🏗️ Desarrollo y automatizo infraestructura como código con **Terraform** y **Ansible**.  
-- 🔄 Trabajo con control de versiones, automatización y CI/CD mediante **GitHub** y **GitHub Actions**. 
+- 🎓 Desarrollador **Fullstack** con enfoque en **DevOps** y **Cloud Computing**.  
+- 💡 Apasionado por crear soluciones que integren desarrollo, automatización y despliegue continuo.  
+- ☁️ **Certificado AWS Cloud Practitioner**, con experiencia en servicios en la nube y buenas prácticas de arquitectura.  
+- 🛠️ Disfruto trabajar en todo el ciclo de vida del software: desde el código hasta la infraestructura.  
+- 🌱 **Stack actual:** JavaScript, React, Node.js, Express, MongoDB, Docker, Kubernetes, CI/CD y más.  
+- 🚀 Motivado por aprender constantemente y afrontar nuevos retos tecnológicos.  
+
+
+## 🛠️ **Tecnologías y herramientas**
+
+<table align="center">
+<tr>
+<th>Frontend</th>
+<th>Backend
