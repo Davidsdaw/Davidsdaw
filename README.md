@@ -1,111 +1,95 @@
-# 👋 ¡Encantado, soy David!
+<div align="center">
 
-<table>
-<tr>
+# 👋 Hola, soy David Sánchez
 
+### Full Stack Developer | Cloud & DevOps
 
-## 🌟 **Sobre mí**
-- 🎓 Desarrollador **Fullstack** con enfoque en **DevOps** y **Cloud Computing**.  
-- 💡 Apasionado por crear soluciones que integren desarrollo, automatización y despliegue continuo.  
-- ☁️ **Certificado AWS Cloud Practitioner**, con experiencia en servicios en la nube y buenas prácticas de arquitectura.  
-- 🛠️ Disfruto trabajar en todo el ciclo de vida del software: desde el código hasta la infraestructura.  
-- 🌱 **Stack actual:** JavaScript, React, Node.js, Express, MongoDB, Docker, Kubernetes, CI/CD y más.  
-- 🚀 Motivado por aprender constantemente y afrontar nuevos retos tecnológicos.  
+Construyo aplicaciones web y automatizo infraestructura en entornos multicloud.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidsdaw)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidsanchezdaw@gmail.com)
 
-## 🛠️ **Tecnologías y herramientas**
-
-<table align="center">
-<tr>
-<th>Frontend</th>
-<th>Backend (APIs)</th>
-<th>Bases de Datos</th>
-<th>DevOps & Cloud</th>
-</tr>
-
-<tr align="center">
-<td>
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)  
-
-</td>
-
-<td>
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
-
-</td>
-
-<td>
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-
-</td>
-
-<td>
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)  
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)  
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-
-</td>
-</tr>
-</table>
-
-</tr>
-</table>
-
----
-
-## ☁️ **Certificaciones**
-🎖️ [**AWS Certified Cloud Practitioner**](https://aws.amazon.com/certification/certified-cloud-practitioner/)  
-> Fundamentos de computación en la nube, seguridad, facturación, despliegue de aplicaciones escalables y arquitectura AWS.
-
----
-
-## 🚀 **Proyectos Destacados**
-
-| 🧠 Proyecto | 💬 Descripción | 🔗 Enlace |
-|-------------|----------------|-----------|
-| **Portfolio Personal** | Mi sitio web personal donde muestro mis proyectos y experiencia profesional. | [🔗 TODO](https://github.com/Davidsdaw/portfolio) |
-| **API REST Node.js + MongoDB** | API modular con Express y MongoDB, lista para integrarse en cualquier frontend. | [🔗 TODO](https://github.com/Davidsdaw/api-rest) |
-| **CI/CD con Docker y GitHub Actions** | Despliegue automatizado de contenedores usando Docker, GitHub Actions y AWS EC2. | [🔗 TODO](https://github.com/Davidsdaw/devops-pipeline) |
-| **Kubernetes Deployment con Helm** | Despliegue escalable de microservicios usando Kubernetes y Helm Charts. | [🔗 TODO](https://github.com/Davidsdaw/k8s-helm-deployment) |
-
----
-
-## 📈 **Estadísticas de GitHub**
-<div align="center" style="display: flex; width: 100%; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidsdaw&layout=compact&theme=radical" alt="Lenguajes más usados" style="width: 43%; float: left;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Davidsdaw&show_icons=true&theme=radical" alt="Estadísticas de GitHub" style="width: 48%; float: right;">
 </div>
 
 ---
 
-> 🎯 _“El aprendizaje no debe parar, especialmente cuando la tecnología nunca deja de avanzar.”_ 🚀  
+## Sobre mí
+
+Soy **desarrollador Full Stack** con experiencia profesional en **Cloud y DevOps**. Trabajo en entornos multicloud, participando en el diseño, automatización y mantenimiento de infraestructura mediante **Terraform, Ansible y GitHub Actions**.
+
+También desarrollo aplicaciones web de extremo a extremo, desde la planificación y el diseño de la solución hasta el frontend, backend, base de datos, despliegue y mantenimiento en producción.
+
+- ☁️ Experiencia con **AWS, Microsoft Azure, Google Cloud y Oracle Cloud**.
+- 🏗️ Desarrollo de infraestructura como código con **Terraform**.
+- ⚙️ Automatización y gestión de configuración con **Ansible** y **GitHub Actions**.
+- 🔐 Gestión de identidades, accesos, permisos y cuentas de servicio.
+- 💻 Desarrollo Full Stack con **Next.js, React, TypeScript, Node.js y MySQL**.
+- 🐧 Administración de entornos **Linux**, Docker, Nginx, VPS y certificados SSL.
+- 🎓 **AWS Certified Cloud Practitioner**.
 
 ---
 
-### 🌐 **Conecta conmigo**
-<p align="center">
-  <a href="https://www.linkedin.com/in/davidsdaw" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:davidsanchezdaw@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+## Tecnologías y herramientas
+
+### Desarrollo Full Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Cloud, infraestructura y automatización
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## Proyectos destacados
+
+| Proyecto | Descripción | Tecnologías |
+|---|---|---|
+| [**PokeDiscordBot**](https://github.com/Davidsdaw/PokeDiscordBot) | Bot de Discord con comandos, gestión de datos, automatización y despliegue en servidor. | Node.js · Discord.js · MySQL · PM2 |
+| [**Portfolio**](https://github.com/Davidsdaw/Porfolio) | Portfolio personal para presentar proyectos, experiencia y conocimientos técnicos. | Desarrollo web · JavaScript · CSS |
+| [**DiscordBot**](https://github.com/Davidsdaw/DiscordBot) | Proyecto de automatización e integración con la API de Discord. | Node.js · APIs · Automatización |
+
+> Además, trabajo en proyectos de infraestructura como código, gestión de identidades, auditoría de permisos y aplicaciones Full Stack desplegadas en producción.
+
+---
+
+## Certificaciones
+
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+
+---
+
+## Estadísticas
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Davidsdaw&show_icons=true&theme=github_dark&hide_border=true" alt="Estadísticas de GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidsdaw&layout=compact&theme=github_dark&hide_border=true" alt="Lenguajes más utilizados" />
+</div>
+
+---
+
+<div align="center">
+
+### Build · Automate · Deploy · Scale
+
+</div>
