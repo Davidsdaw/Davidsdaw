@@ -88,14 +88,6 @@
 
 ---
 
-## 📈 **Estadísticas de GitHub**
-<div align="center" style="display: flex; width: 100%; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidsdaw&layout=compact&theme=radical" alt="Lenguajes más usados" style="width: 43%; float: left;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Davidsdaw&show_icons=true&theme=radical" alt="Estadísticas de GitHub" style="width: 48%; float: right;">
-</div>
-
----
-
 > 🎯 _“El aprendizaje no debe parar, especialmente cuando la tecnología nunca deja de avanzar.”_ 🚀  
 
 ---
